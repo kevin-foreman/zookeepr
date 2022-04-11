@@ -1,0 +1,22 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Simple backend project to support a zoo's catalog of animals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-foreman/zookeepr.git"
+  },
+  "author": "Kevin Foreman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-foreman/zookeepr/issues"
+  },
+  "homepage": "https://github.com/kevin-foreman/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
